@@ -81,7 +81,7 @@ body, p {
 
 h1 {
 	color: #484a46;
-    font: 700 1,5rem/2rem "Montserrat", sans-serif;
+    font: 700 3.5rem/4rem "Montserrat", sans-serif;
 }
 
 h2 {
@@ -1951,10 +1951,6 @@ a:hover.back-to-top {
 	.header .header-content {
 		padding-top: 13rem;
 		padding-bottom: 7.5rem;
-	}
-
-	.header h1 {
-		font: 700 3.5rem/4rem "Montserrat", sans-serif;
 	}
 	/* end of header */
 
